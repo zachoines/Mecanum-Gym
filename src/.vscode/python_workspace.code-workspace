@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../kit/extsPhysics/omni.physx.demos-104.1.6-5.1"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}
